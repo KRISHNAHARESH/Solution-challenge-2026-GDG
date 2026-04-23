@@ -1,6 +1,6 @@
 <h1>🍽️ FoodLoop – Smart Food Waste Reduction Platform</h1><br>
 
-LIVE WEBSITE LINK 
+LIVE WEBSITE LINK : https://krishnaharesh.github.io/Solution-challenge-2026-GDG/
 
 <h1>🧠 Problem Statement</h1><br>
 <p>Every year, tons of food are wasted while many people go hungry. FoodLoop addresses this issue by creating a bridge between excess and need, ensuring food reaches the right people before it gets wasted.
